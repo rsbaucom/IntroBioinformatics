@@ -1,0 +1,32 @@
+Instructions: Add lines in this file underneath each topic indicating which topics or activities are proving difficult for you. Then save this file as syllabus_youlastname.txt and push it to my IntroBioinformatics repository.
+
+
+Topic list
+
+Unit 1
+1. Introduction to course & biological databases
+2. Sequence -- How is it generated?
+3. Genome organization and genome projects
+4. NCBI online
+-There are several versions of BLAST. It was sort of confusing understanding the nuances between them.
+
+Unit 2
+5. Remedial unix and connecting to flux
+6. Unix and advanced unix
+-The advanced unix was challenging. I am still finding cut, grep, and sort to be hard. I am having trouble piping the programs together.
+7. Advanced unix 3 and bioinformatics data manipulation at command line
+-I found the assignment to be cumbersome because I was unable to use join properly.
+8. Git
+-It is relatively straight-forward.
+
+Unit 3
+9. Introduction to R
+10. RMarkdown and git
+11. Range data
+12. Working with sequence/alignment data
+
+Unit 4
+13. Shell scripting
+14. Genomic variation (searching for SNPs)
+15. Gene expression (RNA-seq)
+16. Exam: topics that need more attention! 
