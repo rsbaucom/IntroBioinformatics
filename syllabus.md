@@ -1,5 +1,5 @@
 ###Instructions 
-####Add lines in this file underneath each topic indicating which topics or activities are proving difficult for you. Then save this file as syllabus_youlastname.txt and push it to my IntroBioinformatics repository. Also save this in your MBox on Canvas; this is where I will give you tips on how to practice for skill improvement.
+*####Add lines in this file underneath each topic indicating which topics or activities are proving difficult for you. Then save this file as syllabus_youlastname.txt and push it to my IntroBioinformatics repository. Also save this in your MBox on Canvas; this is where I will give you tips on how to practice for skill improvement.*
 
 
 ###Topic list
